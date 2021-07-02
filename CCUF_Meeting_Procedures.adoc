@@ -1,0 +1,27 @@
+= Common Criteria Users Forum Meeting Procedures
+:showtitle:
+:sectnumlevels: 3
+:table-caption: Table
+:imagesdir: images
+:icons: font
+:doctype: book
+:revnumber: 2.0
+:revdate: July 1, 2021
+:xrefstyle: full
+
+== CCUF Meeting Procedures
+. The CCUF will endeavour to have face to face meetings at least twice yearly. When an in-person meeting is not feasible, the CCUF will support a virtual meetings in its place. It is likely that one of the meetings will be a Workshop prior to the annual International Common Criteria Conference, and the other will be a Workshop during the first quarter CCDB meetings or a meeting at the San Francisco RSA Conference. The CCUF MG may decide to vary these arrangements and provide advance notice to the Membership.
+. Draft Agendas for CCUF meetings will be published by the MG and CCUF members will be able to request additional items to be added to the agenda.
+. Working Groups and Technical Working Groups
+.. A Working Group (WG) seeks to improve the CCUF; and any CCUF member can start a WG by informing the MG of their intent and allowing any interested CCUF members to join the Working Group. Working Groups can choose to meet separately or meet as part of a CCUF workshop.
+.. A Technical Working Group (TWG) seeks to improve the CC; and any CCUF member can start a TWG by informing the MG and the CCDB liaison of their intent and allowing any interested CCUF members to join the Technical Working Group. Technical Working Groups can choose to meet separately or meet as part of a CCUF workshop.
+.. WGs and TWGs can use any available CCUF resources such as the CCUF web portal and meeting spaces at CCUF workshops.
+.. WGs and TWGs should have a liaison to the CCUF MG to provide information about the group’s membership and activities.
+. Technical Communities and International Technical Communities
+“International Technical Communities” are organizations that develop collaborative protection profiles and supporting documents, with the latter being approved by the CCDB. “Technical Communities” are all other groups that develop protection profiles and are not iTCs.
+.. All Technical Communities (TC) and international Technical Communities (iTC) should follow the CCUF Mission as they develop Common Criteria Protection Profiles and Supporting Documents.
+.. All TCs and iTCs can use any available CCUF resources such as the CCUF web portal and meeting spaces at CCUF workshops.
+.. TCs and iTCs should have a liaison to the CCUF MG to provide information about the TC and iTC membership and activities.
+
+== Voting Change Requirements
+Changing this document requires approval by a majority in a vote as defined in the CCUF Voting Procedures.

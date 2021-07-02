@@ -1,0 +1,40 @@
+= Common Criteria Users Forum Principles
+:showtitle:
+:sectnumlevels: 3
+:table-caption: Table
+:imagesdir: images
+:icons: font
+:doctype: book
+:revnumber: 2.0
+:revdate: July 1, 2021
+:xrefstyle: full
+
+== CCUF Principles
+=== Mission
+The Common Criteria Users’ Forum mission is to provide a voice and communications channel between the CC community and the Common Criteria organizational committees, CCRA member organizations (national schemes), and policy makers. In order to further the CCUF mission, our objectives are to improve and promote Common Criteria by seeking to
+
+* Support and foster the goal of worldwide mutual recognition.
+* Promote focused international Technical Communities and technical working groups, to enable the creation of useful, realistic, internationally-recognized protection profiles, supporting documents, and advance Common Criteria.
+* Help to assure customers of evaluated products with meaningful evaluation results.
+* Encourage viable policies and processes for maintaining certification through product updates.
+* Encourage viable policies and processes for certifying systems that are composed of certified parts.
+* Minimize the time, effort, and cost required to complete evaluations which lead to appropriate levels of assurance.
+
+=== Principles of Operation
+* The CCUF will seek to operate within the guidance of these Principles and will refrain from actions, or inactions, which would contradict these Principles.
+* The CCUF will be independent of any government or certification body.
+* The CCUF will provide an open forum for a broad spectrum of participants.
+* The CCUF will accept any member who joins and participates in good faith.
+* The CCUF will not favour any group or interest within its membership.
+* The CCUF will consider the expression and consideration of minority opinions and interests.
+* The CCUF may address issues which are also being addressed by other organisations or groups.
+* The CCUF will maintain its independence and identity in order to adhere to these principles.
+* The CCUF will remain vigilant to ensure that no one group acquires undue influence within the CCUF which would contravene these Principles.
+* CCUF members must not take part in discussions which may give rise to accusations of collusion, monopolistic, anti-trust or anti-competitive behaviour.
+* The CCUF should not allow the discussion of inappropriate topics and should encourage its members to formally object to such discussions.  Any complaints about such inappropriate discussions should be sent to mgmt@ccusersforum.org.
+
+=== Organization Status
+. The CCUF is an unincorporated non-profit association.
+
+== Voting Change Requirements
+Changing this document requires approval by a supermajority in a vote as defined in the CCUF Voting Procedures.

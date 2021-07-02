@@ -1,0 +1,15 @@
+= Common Criteria Users Forum Membership Procedures
+:showtitle:
+:sectnumlevels: 3
+:table-caption: Table
+:imagesdir: images
+:icons: font
+:doctype: book
+:revnumber: 2.0
+:revdate: July 1, 2021
+:xrefstyle: full
+
+== CCUF Membership Procedures
+. When joining the CCUF, if the individual has an affiliation with an organization/entity, the individual must declare this and report any changes to their affiliation. 
+. The list of individual user accounts used by CCUF collaboration tools defines the membership roster for the CCUF and the technical communities and working groups within the CCUF. 
+. CCUF members are expected to follow the CCUF Principles of Operation.

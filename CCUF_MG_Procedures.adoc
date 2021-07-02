@@ -1,0 +1,51 @@
+= Common Criteria Users Forum Management Group Procedures
+:showtitle:
+:sectnumlevels: 3
+:table-caption: Table
+:imagesdir: images
+:icons: font
+:doctype: book
+:revnumber: 2.0
+:revdate: July 1, 2021
+:xrefstyle: full
+
+== CCUF Management Group Procedures
+. The role of the CCUF MG is to operate the CCUF in accordance with the Principles.
+. The CCUF MG will meet (usually via teleconference) on a monthly basis or as agreed within the CCUF MG.
+. The MG will maintain and publish Policies and Procedures for its own operation and for the administration of the CCUF, which are more fluid, whereas the Principles and Rules specified in this governance document are foundational items that change less frequently.
+. When the CCUF MG develops proposed Principles, Rules, Policies, and Procedures they will be checked to ensure compliance with the CCUF Principles of Operation.
+. The member organizations that comprise the CCUF approve the Principles and Rules; the CCUF MG approves the Policies and Procedures.
+. The Management Group will vote on proposed policies and procedures which must pass by simple majority and inform the general CCUF membership.
+. MG Composition
+.. The Management Group (MG) consists of at least three and no more than seven elected members from the CCUF membership and one liaison from the CC Development Board (CCDB).
+.. Because the CCDB is represented by a liaison to the CCUF MG, CCUF members from CCRA member organizations are not eligible to serve on the CCUF MG.footnote:[The list of CCRA Member organizations is at http://www.commoncriteriaportal.org/ccra/members/.]
+.. [[members]]There shall not be more than 2 CCUF MG members from any one organization.
+.. Membership of the CCUF MG is on a personal basis rather than an organizational basis.  Thus any CCUF MG member who changes to another organization may remain a CCUF MG member, subject to not breaching the “no more than 2 individuals from one organisation” rule <<members,3.7.c>>.
+.. The MG roles are a Chair, a Vice-Chair, and other roles as decided by the MG. There may also be additional roles appointed by the Management Group for CCUF members.  Appointed roles do not vote on matters before the MG.
+. MG Elections 
+.. There are no requirements to be elected to the CCUF MG other than the willingness to operate in accordance with the CCUF Principles.
+.. Members of the Group are elected for a 2 year term of office, with elections held in April/May of even calendar years for all 7 seats.footnote:[This transition was done to eliminate the disruption of holding an election every year.]
+.. Individuals on the CCUF MG may stand for re-election with no limit on the number of times that a person may be re-elected.
+.. If a member of the CCUF MG resigns or is not eligible to serve, then the CCUF MG may hold a special election for that seat or leave the seat vacant if approaching an election cycle.
+
+. CCUF Communications 
+.. The CCUF MG will publish, via the CCUF website, notes of CCUF general meetings (including all face to face meetings) and MG meetings.
+.. The MG may also publish requests for comment or information, blogs, or other items of potential interest to the membership of the CCUF on the CCUF website.
+.. The MG will also publish information, such as dates of proposed meetings.
+.. It is possible that some material may be provided to the MG on the basis that it is not disseminated further (e.g. from the CCDB).  In such cases the meeting minutes will note that some information has been withheld at the request of the originator.
+.. Documents produced by the MG may be posted for review so interested CCUF members may provide comments for a limited time.  Review comments will be taken into account by the document author(s) when developing subsequent versions.  Where comments are not incorporated into the text of the subsequent version CCUF members may seek clarification of the reasons for such action.
+.. As and when the MG develops proposed new Rules, Policies, or Procedures they will be checked to ensure compliance with the CCUF Principles of Operation.
+.. Where the MG considers that potential Policies or Procedures may have a significant impact on the overall CCUF then a vote of the CCUF membership shall be sought on the adoption of such additional rules.
+
+. CCUF MG Tasks
+.. The allocation of tasks within the MG will be by agreement of the MG.
+.. When the MG seeks assistance with the tasks, then a sub-group may be formed to carry out one or more identified pieces of work.  Such sub-groups will be free to choose their method of operations, within the CCUF Principles of Operation, subject to direction from the MG.  A member of the MG will be the MG liaison for the sub-group.
+.. Outputs from sub-groups and Technical Working Groups will be provided to the CCUF MG who will decide on future work or publication of results.
+
+. MG Voting
+.. Where votes are required within the MG then majority voting applies, with a quorum of two-thirds (2/3), rounding up, CCUF MG members participating.
+.. Where voting would not be quorate then interim votes may be held for subsequent ratification or rejection at the next meeting.
+.. Outcomes of MG voting will be recorded in meeting notes which will be published on the CCUF website.
+
+== Voting Change Requirements
+Changing this document requires approval by a majority in a vote as defined in the CCUF Voting Procedures.

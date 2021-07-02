@@ -1,0 +1,21 @@
+= Common Criteria Users Forum Policies
+:showtitle:
+:sectnumlevels: 3
+:table-caption: Table
+:imagesdir: images
+:icons: font
+:doctype: book
+:revnumber: 2.0
+:revdate: July 1, 2021
+:xrefstyle: full
+
+== CCUF Policies
+* Membership of the CCUF is open to all individuals with an interest in the Common Criteria.
+* The CCUF membership will be asked to vote on issues which affect the operation of the CCUF.
+* The CCUF will have an elected Management Group of members of the CCUF.
+* The CCUF Management Group will provide communications to the members about relevant events/news to the membership.
+* The CCUF will have membership meetings each year.
+* The CCUF will provide tools (or guidance for tools) for members to use for communications and ongoing public work related to Common Criteria.
+
+== Voting Change Requirements
+Changing this document requires approval by a supermajority in a vote as defined in the CCUF Voting Procedures.

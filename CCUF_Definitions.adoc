@@ -1,0 +1,20 @@
+= Common Criteria Users Forum Definitions
+:showtitle:
+:sectnumlevels: 3
+:table-caption: Table
+:imagesdir: images
+:icons: font
+:doctype: book
+:revnumber: 2.0
+:revdate: July 1, 2021
+:xrefstyle: full
+
+== Introduction
+This document provides a general set of definitions for terms used in the Common Critiera Users Forum governing documents.
+
+== Definitions
+(Voting) Entity::
+When determining eligibility in counting votes, an organization counts as a single voting entity, even if multiple employees of that organization are members of the CCUF. The entity is defined as all related portions of the organization under a single umbrella, so subdivisions, even in separate countries, as still counted as the same entity. An individual registered without an organization is counted as an entity.
+
+== Voting Change Requirements
+Changing this document requires approval by a majority in a vote as defined in the CCUF Voting Procedures.

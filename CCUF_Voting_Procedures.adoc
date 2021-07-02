@@ -1,0 +1,109 @@
+= Common Criteria Users Forum Voting Procedures
+:showtitle:
+:sectnumlevels: 3
+:table-caption: Table
+:imagesdir: images
+:icons: font
+:doctype: book
+:revnumber: 2.0
+:revdate: July 1, 2021
+:xrefstyle: full
+
+== CCUF Voting Procedures
+The CCUF membership will be asked to vote on issues which affect the operation of the CCUF.  Only the CCUF MG can initiate a vote, but any member may request that the MG consider a vote on a subject.  Voting by the general CCUF membership will be held when there are changes to the CCUF Principles, Rules, and elections to the Management Group. 
+
+The CCUF may define different classes of voting as part of this document. Any vote will have a <<Vote Classes, vote class>> associated with the ballot.
+
+All votes are counted based on entities that submit ballots only; all entities that do not participate are considered to have abstained from the vote and so not count towards the vote total. 
+
+=== Vote Eligibility
+Voting is limited specifically to the CCUF members defined at the time the vote is called. Membership in the CCUF is defined as inclusion of the person as having an account in the primary CCUF website system as defined by the CCUF Management Group. Any entity not having an account at the time specified in the Call for Votes is anounced is ineligible to cast a vote.
+
+One vote is allowed for each entity, not for each individual member, regardless of membership within the CCUF. It is the responsibility of each entity to determine which individual member will cast a vote on its behalf.
+
+=== Vote Monitoring and Tabulation
+Each CCUF vote will be monitored and tabulated officially by three volunteers appointed by the CCUF MG (the Vote Tabulation Team, VTT). No volunteer should have a significant interest in the outcome of the vote (for example, they are standing for election, or they have been the main proponent of an issue that subject to a vote or be from the same organization as a nominee running for a position).
+
+The Vote Tabulation Team is not a standing body and will be appointed for each vote (one team may handle multiple concurrent votes, but is not expected to handle every vote that may occur).
+
+==== Handling Multiple Entity Votes
+While it is the responsibility of the entity to ensure only one vote is submitted for the entity, the VTT may provide notification of duplicate ballots.
+
+The default method for counting duplicate entity ballots is to count the first submitted ballot as valid and all others as invalid. The entity may be provided with a window of opportunity of not more than one business day after the Call for Votes has been closed to establish a single ballot to be used. If there is no update from the entity, the first ballot will be used. 
+
+If all ballots from the entity match, the entity should be notified of the duplicate votes, but the result will be counted as one.
+
+=== Vote Workflow
+As a guideline, voting takes place according to the following process:
+
+. A Call for Votes is posted, including the mechanism for casting ballots and time period during which ballots are accepted
+.. The Call for Votes will also include the membership feeze date. The default freeze date is one week before the voting period starts
+.. The Call for Votes will include the appointment of the Vote Tabulation Team
+. At the end of the voting period, ballots are tabulated and reviewed by the Vote Tabulation Team
+. Results of voting are posted, including a summary of the vote and the entities that cast a vote
+.. Results will not show which entities cast votes for which choices, nor will they list the individuals who represented the voting entities.
+
+This process is illustrated, below. Timing for each part of the process is provided as a benchmark. A typical voting cycle should be completed within a four-week period. Some voting periods may be longer due to holidays or other events. 
+
+[#Vote-Workflow] 
+.Vote Workflow
+[ditaa,workflow,png]
+....
+                  +--------------+                     +--------------+                     +--------------+
+ /-----------\    |              |    /-----------\    |              |    /-----------\    |              |    /-----------\
+ |           |    | #1           |    |           |    | #2           |    |           |    | #3           |    |           |
+ | New Vote  |    | Call for     |    | Membership|    | Member       |    | Voting is |    | Ballots are  |    |    End    |
+ |           |--->| Vote is      +--->| Freeze    |--->| entities     |--->|   Closed  |--->| tabulated    |--->|           |
+ |           |    | announced    |    |           |    | may cast     |    |           |    | and results  |    |           |
+ \-----------/    |              |    \-----------/    | their ballots|    \-----------/    | posted       |    \-----------/
+                  |              |         | |         |              |         | |         |              |
+                  +--------------+         | |         +--------------+         | |         +--------------+
+                         |                 | |                | |               | |                 |
+                         \--------+--------/ \--------+-------/ \------+--------/ \--------+--------/
+                                  |                   |                |                   |
+                               One Week            One Week         One Week           One Week
+....
+
+==== Minimum Vote Notice
+To ensure timely voting, both for members to be aware of the vote and to ensure that potential members have time to join, a Call for Votes cannot be shorter than two weeks time. This is defined by requiring that any vote provide at least one week from the Call for Votes before a membership freeze, followed by at least one week from the freeze before the actual voting starts.
+
+These two time periods can be extended as determined by the CCUF MG, but cannot be less than this time.
+
+==== Ballot Casting Period
+The time period provided to the membership for voting shall not be less than one week (seven days) or more than two weeks (14 days). The time period will be specified with the Call for Votes announcement.
+
+=== Entity Voting
+Every vote from an entity must be associated with a specific CCUF member. The entity name along with the name of the person voting must be included with the vote (depending on the system used, this may be automatically tracked). Votes without entity or member information will not be counted.
+
+=== Vote Counting
+Only submitted votes are considered by the VTT; entities that do not submit votes are considered to have abstained from the vote and will not be counted towards any totals. Entities are only allowed one vote each and votes may be explicitly rejected based on the rules in <<Handling Multiple Entity Votes>>.
+
+The VTT will count the votes for each provided selection (e.g. agree, reject, person, choice). Based on the <<Vote Classes, Vote Class>> of the ballot, this information will be used to determine the outcome of the vote.
+
+As part of the summary of the vote, the total number of accepted votes is provided as this is the basis for calculating totals for the different <<Vote Classes>>.
+
+=== Voting Results Publication
+Once the VTT presents the voting results to the CCUF MG, the CCUF MG will report the results to the CCUF membership. This will occur not more than one week (seven days) after the voting has closed.
+
+== Vote Classes
+The CCUF has multiple defined Vote Classes to cover different types of issues to be presented to the CCUF membership. Each class has different requirements to determine the outcome in terms of vote counting.
+
+The CCUF governing documents specify the Vote Class required to approve any changes to the document.
+
+=== Supermajority Class
+A Supermajority is defined by the CCUF as a two-thirds (2/3) majority of the counted votes in agreement with the ballot question. 
+
+=== Majority Class
+A simple majority is defined by the CCUF as 50% +1 of the counted votes in agreement with the ballot question.
+
+=== Multiple Choice Class
+In a Multiple Choice vote, the choice with the highest vote total will be considered the "winner" of the ballot. This may be a plurality instead of a majority.
+
+=== Election Class
+An Elections ballot is the one vote where multiple selections are allowed. In an Election ballot, entities can vote once for each candidate, up to the number of open positions. For example when the vote is for the seven seats on the MG each entity will be allowed to vote for up to seven different candidates (but not more than once for any candidate).
+
+== Voting Methods
+The CCUF MG will only use voting systems which can provide a recorded vote (e.g. no voice votes on a call). The CCUF MG will use systems that are available for the purpose that are in the control of the CCUF (whether by self-hosting or CCUF-linked accounts). The specific method for voting will be announced at the time of the Call for Votes and instructions for using the system will be provided with the announcement.
+
+== Voting Change Requirements
+Changing this document requires approval by a supermajority in a vote as defined in the CCUF Voting Procedures (this document).
