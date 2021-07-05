@@ -10,6 +10,9 @@
 :xrefstyle: full
 
 == CCUF Membership Procedures
+. Membership of the CCUF is open to all individuals with an interest in the Common Criteria.
 . When joining the CCUF, if the individual has an affiliation with an organization/entity, the individual must declare this and report any changes to their affiliation. 
 . The list of individual user accounts used by CCUF collaboration tools defines the membership roster for the CCUF and the technical communities and working groups within the CCUF. 
 . CCUF members are expected to follow the CCUF Principles of Operation.
+== Voting Change Requirements
+Changing this document requires approval by a supermajority in a vote as defined in the CCUF Voting Procedures.
