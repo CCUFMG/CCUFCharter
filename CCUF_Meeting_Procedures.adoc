@@ -24,4 +24,4 @@
 .. TCs and iTCs should have a liaison to the CCUF MG to provide information about the TC and iTC membership and activities.
 
 == Voting Change Requirements
-Changing this document requires approval by a majority in a vote as defined in the CCUF Voting Procedures.
+Changing this document requires approval by a CCUF MG majority in a vote as defined in the CCUF Voting Procedures.
