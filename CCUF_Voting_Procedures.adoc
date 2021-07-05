@@ -70,7 +70,7 @@ To ensure timely voting, both for members to be aware of the vote and to ensure 
 These two time periods can be extended as determined by the CCUF MG, but cannot be less than this time.
 
 ==== Ballot Casting Period
-The time period provided to the membership for voting shall not be less than one week (seven days) or more than two weeks (14 days). The time period will be specified with the Call for Votes announcement.
+The time period provided to the membership for voting shall not be less than one week (seven days - Wednesday to Tuesday) or more than two weeks (14 days). The time period and time zone will be specified with the Call for Votes announcement.
 
 === Entity Voting
 Every vote from an entity must be associated with a specific CCUF member. The entity name along with the name of the person voting must be included with the vote (depending on the system used, this may be automatically tracked). Votes without entity or member information will not be counted.
@@ -80,10 +80,15 @@ Only submitted votes are considered by the VTT; entities that do not submit vote
 
 The VTT will count the votes for each provided selection (e.g. agree, reject, person, choice). Based on the <<Vote Classes, Vote Class>> of the ballot, this information will be used to determine the outcome of the vote.
 
-As part of the summary of the vote, the total number of accepted votes is provided as this is the basis for calculating totals for the different <<Vote Classes>>.
-
 === Voting Results Publication
 Once the VTT presents the voting results to the CCUF MG, the CCUF MG will report the results to the CCUF membership. This will occur not more than one week (seven days) after the voting has closed.
+
+For CCUF MG elections the VTT will report the results to the CCUF membership directly.
+
+As part of the summary of the vote, the total number of accepted votes is provided as this is the basis for calculating totals for the different <<Vote Classes>> and will list separately the entities that cast votes.  Results will not show which entities cast votes for which choices, nor will they list the individuals who represented the voting entities.
+
+=== Ties
+In the case of a tie there will be a runoff vote using the same rules.
 
 == Vote Classes
 The CCUF has multiple defined Vote Classes to cover different types of issues to be presented to the CCUF membership. Each class has different requirements to determine the outcome in terms of vote counting.
@@ -91,7 +96,7 @@ The CCUF has multiple defined Vote Classes to cover different types of issues to
 The CCUF governing documents specify the Vote Class required to approve any changes to the document.
 
 === Supermajority Class
-A Supermajority is defined by the CCUF as a two-thirds (2/3) majority of the counted votes in agreement with the ballot question. 
+A Supermajority is defined by the CCUF as a two-thirds (2/3) majority of the counted entity votes in agreement with the ballot question. 
 
 === Majority Class
 A simple majority is defined by the CCUF as 50% +1 of the counted votes in agreement with the ballot question.
@@ -106,4 +111,4 @@ An Elections ballot is the one vote where multiple selections are allowed. In an
 The CCUF MG will only use voting systems which can provide a recorded vote (e.g. no voice votes on a call). The CCUF MG will use systems that are available for the purpose that are in the control of the CCUF (whether by self-hosting or CCUF-linked accounts). The specific method for voting will be announced at the time of the Call for Votes and instructions for using the system will be provided with the announcement.
 
 == Voting Change Requirements
-Changing this document requires approval by a supermajority in a vote as defined in the CCUF Voting Procedures (this document).
+Changing this document requires approval by a CCUF membership supermajority in a vote as defined in the CCUF Voting Procedures (this document).
