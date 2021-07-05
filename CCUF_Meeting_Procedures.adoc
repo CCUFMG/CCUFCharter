@@ -10,7 +10,7 @@
 :xrefstyle: full
 
 == CCUF Meeting Procedures
-. The CCUF will endeavour to have face to face meetings at least twice yearly. When an in-person meeting is not feasible, the CCUF will support a virtual meetings in its place. It is likely that one of the meetings will be a Workshop prior to the annual International Common Criteria Conference, and the other will be a Workshop during the first quarter CCDB meetings or a meeting at the San Francisco RSA Conference. The CCUF MG may decide to vary these arrangements and provide advance notice to the Membership.
+. The CCUF will endeavour to have face to face meetings at least twice yearly. When an in-person meeting is not feasible, the CCUF will support a virtual meetings in its place. It is likely that one of the meetings will be a Workshop prior to the annual International Common Criteria Conference, and the other will be a Workshop during the first quarter CCDB meetings or a meeting at the San Francisco RSA Conference. The CCUF Management Group (MG) may decide to vary these arrangements and provide advance notice to the Membership.
 . Draft Agendas for CCUF meetings will be published by the MG and CCUF members will be able to request additional items to be added to the agenda.
 . Working Groups and Technical Working Groups
 .. A Working Group (WG) seeks to improve the CCUF; and any CCUF member can start a WG by informing the MG of their intent and allowing any interested CCUF members to join the Working Group. Working Groups can choose to meet separately or meet as part of a CCUF workshop.
