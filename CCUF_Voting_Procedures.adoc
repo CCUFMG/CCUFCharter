@@ -36,9 +36,9 @@ If all ballots from the entity match, the entity should be notified of the dupli
 === Vote Workflow
 As a guideline, voting takes place according to the following process:
 
-. A Call for Votes is posted, including the mechanism for casting ballots and time period during which ballots are accepted
-.. The Call for Votes will also include the membership feeze date. The default freeze date is one week before the voting period starts
-.. The Call for Votes will include the appointment of the Vote Tabulation Team
+. A Call for Votes is posted, including the mechanism for casting ballots and time period during which ballots are accepted.
+.. The Call for Votes will state the purpose of the vote and timelines, including the membership feeze date. The default freeze date is one week before the voting period starts.
+.. The Call for Votes will include a call for Vote Tabulation Team volunteers.
 . At the end of the voting period, ballots are tabulated and reviewed by the Vote Tabulation Team
 . Results of voting are posted, including a summary of the vote and the entities that cast a vote
 .. Results will not show which entities cast votes for which choices, nor will they list the individuals who represented the voting entities.
