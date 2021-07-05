@@ -21,6 +21,8 @@ Voting is limited specifically to the CCUF members defined at the time the vote 
 
 One vote is allowed for each entity, not for each individual member, regardless of membership within the CCUF. It is the responsibility of each entity to determine which individual member will cast a vote on its behalf.
 
+Only individual members who are not affiliated with any CCUF member organization can vote as an individual.
+
 === Vote Monitoring and Tabulation
 Each CCUF vote will be monitored and tabulated officially by three volunteers appointed by the CCUF MG (the Vote Tabulation Team, VTT). No volunteer should have a significant interest in the outcome of the vote (for example, they are standing for election, or they have been the main proponent of an issue that subject to a vote or be from the same organization as a nominee running for a position).
 
